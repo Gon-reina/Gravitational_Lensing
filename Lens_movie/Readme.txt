@@ -1,0 +1,2 @@
+Run the 'Circlelesningmovie' file to generate the frames and the video. OpenCV python library is requier to run it.
+It can be installed by typing "pip install opencv-python" into the python command window
